@@ -1,0 +1,13 @@
+venv/
+dist/
+build/
+__pycache__/
+*.spec
+*.exe
+*.zip
+*.tif
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.psd
