@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+build/
+dist/
+*.spec
+output/*.png
+output/*.jpg
+output/*.jpeg
+output/*.tif
+logs/*.log
